@@ -21,7 +21,7 @@ def draw_text(text, font, color, surface, x, y):
     textrect.topleft = (x, y)
     surface.blit(textobj, textrect)
 
-
+# Here I made the main menu code.
 def main_menu():
     while True:
 

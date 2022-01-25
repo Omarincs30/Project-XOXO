@@ -8,6 +8,7 @@ Changlog:
 # January 18, 2022: Began beta testing
 # January 21, 2022: Finished beta testing
 # January 23, 2022: Finished work on all recomendations.
+# January 23, 2022: I have fixed the bug where the game sometimes does not start.
 # January 24, 2022: Finished the game part
 # January 24, 2022: Projected was completed
 # January 25, 2022: Project was Presented 
